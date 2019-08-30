@@ -54,11 +54,11 @@ Kinesis analytics for analysing stream data
     * Analyse data in Kinesis stream/FireHose
 
 ## Web Identity Federation & Cognito
-> AWS Cognito is a Web Identity Federation service. Sign-up and sign-in to your apps using Facebook/AWS/Google. Handles interactions between applications using SNS. Userpool handles users: Registrations/auth/recovery. Identity Pool actually grants access to resources. 
+> AWS Cognito is a Web Identity Federation service. Sign-up and sign-in to your apps using Facebook/AWS/Google. Handles interactions between applications using SNS. User pool handles users: Registrations/auth/recovery. Identity Pool actually grants access to resources. 
 * Web Identity Federation can give users access to AWS resources after logging in with providers like Amazon, Facebook & Google. 
     * Success = temp AWS security credentials
 * **User Pools**: USERS. Directories to manage sing-up/in functions for mobile and web. Acts as an identity provider.
-* **Identify pools**: Temp creds to access AWS resources in form of IAM role
+* **Identify pools**: Temp credentials to access AWS resources in form of IAM role
 * Push synchronization across multiple devices when a change is made
 * **Process in background**:  
     * User signs into Facebook

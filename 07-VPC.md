@@ -1,15 +1,13 @@
 `2019 AWS CSA - Associate notes`
 ==============================
 
-### VPC
+## VPC
 > Logical data centre within AWS, in a given Region (5 per region)
-* Creating a new one
-    * Automatically creates a Route Table, NACL and Security group. 
-    * Have to manually create subnets and internet gateways (1 per VPC)
-### Subnets
+
+## Subnets
 > Logical division of the VPC
 * Can have multiple Subnets in an AZ, but a subnet cannot strech across AZs
-### Route tables
+## Route tables
 > Rules where network traffic is directed
 * Internet Gateway
     * VPC component that allows communication between instances in a VPC and the internet

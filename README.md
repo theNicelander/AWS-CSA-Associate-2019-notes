@@ -1,2 +1,22 @@
-# AWS-CSA-Associate-2019-notes
-My notes for the 2019 AWS Certified Solutions Architect Associate exam - September 2019
+#2019 AWS CSA - Associate notes
+Notes from doing the [A Cloud Guru course](acloud.guru) for the [AWS Certified Solutions Architect – Associate ](https://aws.amazon.com/certification/certified-solutions-architect-associate/) exam.
+
+## Intro 
+## IAM
+## S3s
+## EC2
+## Databases
+> [See notes](Databases)
+## Route53
+
+## VPC
+> [See notes](HA-Architecture)
+## HA Architecture
+> [See notes](HA-Architecture)
+## Applications
+> [See notes](Applications.md)
+## Serverless
+
+
+
+

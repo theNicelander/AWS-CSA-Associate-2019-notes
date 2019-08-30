@@ -8,14 +8,14 @@ Notes from doing the [A Cloud Guru course](acloud.guru) for the [AWS Certified S
 ## 3. S3s
 ## 4. EC2
 ## 5. Databases
-> [Full Notes](5-Databases.md)
+> [Full Notes](05-Databases.md)
 ## 6. Route53
 ## 7. VPC
-> [Full Notes](7-VPC.md)
+> [Full Notes](07-VPC.md)
 ## 8. HA Architecture
-> [Full Notes](8-HA-Architecture.md)
+> [Full Notes](08-HA-Architecture.md)
 ## 9. Applications
-> [Full Notes](9-Applications.md)
+> [Full Notes](09-Applications.md)
 ## 10. Serverless
 > [Full Notes](10-Serverless.md)
 

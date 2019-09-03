@@ -5,12 +5,29 @@ Notes from doing the [A Cloud Guru course](acloud.guru) for the [AWS Certified S
 
 High level overview & index below  with detailed notes separate.
 
+## To-be-organised
+> Amazon Macie: ML powered security for S3 buckets. Protecting sensitive data. 
+
 ## 1. Intro 
 ## 2. IAM
+#### VPC Flow Logs
+> Capture information about IP traffic coming to and from network interfaces. Can write to S3 or Cloudwatch. Can we set on VPCs, subnet or network interfaces. 
+
+#### AWS WAF - Web application firewall
+> Control traffic by creating custom web security rules. Block common attacks like SQL injection or cross site scripting. Pay for use.
+* Types: IP Match, Geo Match, String Match, SQL injection Match
+* Optional: Regex match
+
+
+
 ## 3. S3s
 ## 4. EC2
 ## 5. Databases
 > [Full Notes](05-Databases.md)
+
+* Open Source: Aurora, MySQL, MariaDB or PostgreSQL
+* Proprietary: SQL Server (MS), Oracle 
+
 ## 6. Route53
 ## 7. VPC
 > [Full Notes](07-VPC.md)
